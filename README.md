@@ -2,6 +2,8 @@
 
 ## How to use
 
+`I created this app for my children. Only for fun.`
+
 This project is just an example of how to make an app with draw area.
 
 Use the `DrawView` to create the draw area and `ColorPickerView` to color picker.
